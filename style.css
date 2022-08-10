@@ -38,7 +38,7 @@ nav {
 #output {
     border: 2px solid black;
     width: 85%;
-    height: 85px;
+    height: 90px;
     background-color:rgb(165, 233, 250);
     display: inline-block;
     margin: auto;
@@ -52,12 +52,12 @@ nav {
 
 #btn-translate {
     width: 50 px;
-    height: 55 px;
+    height: 58 px;
     border: none;
     font-family: 'Kalam', serif;
     font-size: large;
     background-color: #77d2f7;
-    border: 2px solid black;
+    border: 2.7px solid black;
 }
 
 #btn-translate:hover {
