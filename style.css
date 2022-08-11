@@ -19,9 +19,9 @@ nav {
 }
 
 #txt-input {
-    border: 2px solid rgb(4, 245, 16);
+    border: 1.7px solid rgb(4, 245, 16);
     width: 85%;
-    height: 85px;
+    height: 80px;
     background-color:rgb(193, 233, 247);
     display: block;
     margin-top: 2rem;
